@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(125, 125, 125);
+    color: violet;
+}
+
+section {
+    border: 1px solid rgba(0, 0, 0, 0.200);
+    border-radius: 10px;
+    background-color: rgb(249,249,249);
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
